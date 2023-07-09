@@ -1,1 +1,1 @@
-My first readme
+My first code as student at ALX SE
